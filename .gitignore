@@ -1,0 +1,5 @@
+# who a particular copy of the exam is for: never published
+local/
+
+# local serving: not part of the site
+*.log
